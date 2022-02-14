@@ -31,7 +31,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/koltin/koltin-original.svg" title="Koltin" alt="Koltin" width="40" height="40"/>&nbsp;
-   
 </div>
 
 
