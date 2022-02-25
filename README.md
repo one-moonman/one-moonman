@@ -26,13 +26,11 @@
 </div>
 <h2>Tech I want to learn</h2>
 <div align="center" >
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-   
 </div>
 
 
