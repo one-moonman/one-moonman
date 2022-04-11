@@ -12,7 +12,7 @@
 <h3>Database</h3>
 <div align="center" >
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/amido/azure-vector-icons/blob/master/renders/sql-database-generic.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 </div>
 <h3>Client</h3>
