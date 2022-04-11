@@ -30,8 +30,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-   <img src="https://camo.githubusercontent.com/7533f59618a7b7bf65899649b1233255eee62bd11202db10eb165fb531fc1f64/687474703a2f2f72757374616365616e2e6e65742f6173736574732f637564646c796665727269732e706e67" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-watermark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+   <img src="https://camo.githubusercontent.com/7533f59618a7b7bf65899649b1233255eee62bd11202db10eb165fb531fc1f64/687474703a2f2f72757374616365616e2e6e65742f6173736574732f637564646c796665727269732e706e67" title="Rust" alt="Rust" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-watermark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
 </div>
 
 
